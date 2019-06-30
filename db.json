@@ -2,11 +2,6 @@
     "id": "7965010c-de87-4ee7-b0d3-8ce744538b9e",
     "label": "SandboxNBG5",
     "number": "97226400162",
-    "owners": [
-        {
-            "provider": "NBG",
-        }
-    ],
     "type": "CURRENT",
     "AccountBalance": {
         "currency": "EUR",
@@ -14,5 +9,4 @@
     },
     "IBAN": "GR0901109720000097226400162",
     "bank_id": "DB173089-A8FE-43F1-8947-F1B2A8699829",
-
 }
