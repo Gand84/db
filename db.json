@@ -4,9 +4,7 @@
     "number": "97226400162",
     "owners": [
         {
-            "id": "47117d34-2bb4-4ae8-9a66-6e13a09d24bc",
             "provider": "NBG",
-            "display_name": "User1"
         }
     ],
     "type": "CURRENT",
@@ -15,17 +13,6 @@
         "amount": "7000"
     },
     "IBAN": "GR0901109720000097226400162",
-    "swift_bic": "ETHNGRAA",
     "bank_id": "DB173089-A8FE-43F1-8947-F1B2A8699829",
-    "account_routing": [
-        {
-            "scheme": "IBAN",
-            "address": "GR0901109720000097226400162"
-        },
-        {
-            "scheme": "AccountNumber",
-            "address": "97226400154"
-        }
-    ],
-    "extensions": null
+
 }
