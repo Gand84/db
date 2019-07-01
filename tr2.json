@@ -1,143 +1,142 @@
 {
-                            "this_account1": {
-                                "id": "7965010c-de87-4ee7-b0d3-8ce744538b8e",                            
-                                "number": "97226400154",
-                                "kind": "Current",
-                                "IBAN": "GR0901109720000097226400154",
-                                "bank":"NATIONAL BANK OF GREECE",                               
-                            },
-                            "other_account1": {
-                                "id": "3c6888ad-f9eb-40dc-a963-f8f9ea1c49a8",                            
-                                "number": "10348012377",
-                                "IBAN": "GR4501101030000010348012377",
-                                "bank": "NATIONAL BANK OF GREECE",                              
-                            },
-                            "details1": {
-                                "type": "Account Transfer",
-                                "description": "Transfer 20 Euro to other Account",
-                                "posted": "2019-01-25T18:14:31.2156726+03:00",
-                                "completed": "2019-01-25T18:14:31.2156726+03:00",
-                                "new_balance": {
-                                    "currency": "EUR",
-                                    "amount": "99240"
-                                },
-                                "value": {
-                                    "currency": "EUR",
-                                    "amount": "-20"
-                                }
-                            },
-                           
-                            
-                            "this_account2": {
-                                "id": "7965010c-de87-4ee7-b0d3-8ce744538b2e",                            
-                                "number": "97226400162",
-                                "kind": "Current",
-                                "IBAN": "GR0901109720000097226400162",
-                                "bank":"NATIONAL BANK OF GREECE",                               
-                            },
-                            "other_account2": {
-                                "id": "3c6888ad-f9eb-40dc-a963-f8f9ea1c49a8",                            
-                                "number": "10348012377",
-                                "IBAN": "GR4501101030000010348012377",
-                                "bank": "NATIONAL BANK OF GREECE",                              
-                            },
-                            "details2": {
-                                "type": "Account Transfer",
-                                "description": "Transfer from other account",
-                                "posted": "2019-02-25T18:14:31.2156726+03:00",
-                                "completed": "2019-02-25T18:14:31.2156726+03:00",
-                                "new_balance": {
-                                    "currency": "EUR",
-                                    "amount": "100300"
-                                },
-                                "value": {
-                                    "currency": "EUR",
-                                    "amount": "30"
-                                }
-                            },
-                            
-                            "this_account3": {
-                                "id": "7965010c-de87-4ee7-b0d3-8ce744538b2e",                            
-                                "number": "97226400154",
-                                "kind": "Current",
-                                "IBAN": "GR0901109720000097226400154",
-                                "bank":"NATIONAL BANK OF GREECE",                               
-                            },
-                            "other_account3": {
-                                "id": "3c6888ad-f9eb-40dc-a963-f8f9ea1c49a8",                            
-                                "number": "10348012377",
-                                "IBAN": "GR4501101030000010348012377",
-                                "bank": "NATIONAL BANK OF GREECE",                              
-                            },
-                            "details3": {
-                                "type": "Account Transfer",
-                                "description": "Transfer from other account",
-                                "posted": "2019-03-25T18:14:31.2156726+03:00",
-                                "completed": "2019-03-25T18:14:31.2156726+03:00",
-                                "new_balance": {
-                                    "currency": "EUR",
-                                    "amount": "99360"
-                                },
-                                "value": {
-                                    "currency": "EUR",
-                                    "amount": "120"
-                                }
-                            },
-                            
-                            "this_account4": {
-                                "id": "7965010c-de87-4ee7-b0d3-8ce744538b2e",                            
-                                "number": "97226400162",
-                                "kind": "Current",
-                                "IBAN": "GR0901109720000097226400162",
-                                "bank":"NATIONAL BANK OF GREECE",                               
-                            },
-                            "other_account4": {
-                                "id": "3c6888ad-f9eb-40dc-a963-f8f9ea1c49a8",                            
-                                "number": "10348012377",
-                                "IBAN": "GR4501101030000010348012377",
-                                "bank": "NATIONAL BANK OF GREECE",                              
-                            },
-                            "details4": {
-                                "type": "Account Transfer",
-                                "description": "Transfer 300 Euro to other Account",
-                                "posted": "2019-04-25T18:14:31.2156726+03:00",
-                                "completed": "2019-04-25T18:14:31.2156726+03:00",
-                                "new_balance": {
-                                    "currency": "EUR",
-                                    "amount": "100000"
-                                },
-                                "value": {
-                                    "currency": "EUR",
-                                    "amount": "-300"
-                                }
-                            },
-                            
-                            "this_account5": {
-                                "id": "7965010c-de87-4ee7-b0d3-8ce744538b2e",                            
-                                "number": "97226400154",
-                                "kind": "Current",
-                                "IBAN": "GR0901109720000097226400154",
-                                "bank":"NATIONAL BANK OF GREECE",                               
-                            },
-                            "other_account5": {
-                                "id": "3c6888ad-f9eb-40dc-a963-f8f9ea1c49a8",                            
-                                "number": "10348012377",
-                                "IBAN": "GR4501101030000010348012377",
-                                "bank": "NATIONAL BANK OF GREECE",                              
-                            },
-                            "details5": {
-                                "type": "Account Transfer",
-                                "description": "Transfer from other account",
-                                "posted": "2019-05-25T18:14:31.2156726+03:00",
-                                "completed": "2019-05-25T18:14:31.2156726+03:00",
-                                "new_balance": {
-                                    "currency": "EUR",
-                                    "amount": "100000"
-                                },
-                                "value": {
-                                    "currency": "EUR",
-                                    "amount": "640"
-                                }
-                            }                           
-}
+	"this_account1": {
+		"id": "7965010c-de87-4ee7-b0d3-8ce744538b8e",
+		"number": "97226400154",
+		"kind": "Current",
+		"IBAN": "GR0901109720000097226400154",
+		"bank": "NATIONAL BANK OF GREECE"
+	},
+	"other_account1": {
+		"id": "3c6888ad-f9eb-40dc-a963-f8f9ea1c49a8",
+		"number": "10348012377",
+		"IBAN": "GR4501101030000010348012377",
+		"bank": "NATIONAL BANK OF GREECE"
+	},
+	"details1": {
+		"type": "Account Transfer",
+		"description": "Transfer 20 Euro to other Account",
+		"posted": "2019-01-25T18:14:31.2156726+03:00",
+		"completed": "2019-01-25T18:14:31.2156726+03:00",
+		"new_balance": {
+			"currency": "EUR",
+			"amount": "99240"
+		},
+		"value": {
+			"currency": "EUR",
+			"amount": "-20"
+		}
+	},
 
+
+	"this_account2": {
+		"id": "7965010c-de87-4ee7-b0d3-8ce744538b2e",
+		"number": "97226400162",
+		"kind": "Current",
+		"IBAN": "GR0901109720000097226400162",
+		"bank": "NATIONAL BANK OF GREECE"
+	},
+	"other_account2": {
+		"id": "3c6888ad-f9eb-40dc-a963-f8f9ea1c49a8",
+		"number": "10348012377",
+		"IBAN": "GR4501101030000010348012377",
+		"bank": "NATIONAL BANK OF GREECE"
+	},
+	"details2": {
+		"type": "Account Transfer",
+		"description": "Transfer from other account",
+		"posted": "2019-02-25T18:14:31.2156726+03:00",
+		"completed": "2019-02-25T18:14:31.2156726+03:00",
+		"new_balance": {
+			"currency": "EUR",
+			"amount": "100300"
+		},
+		"value": {
+			"currency": "EUR",
+			"amount": "30"
+		}
+	},
+
+	"this_account3": {
+		"id": "7965010c-de87-4ee7-b0d3-8ce744538b2e",
+		"number": "97226400154",
+		"kind": "Current",
+		"IBAN": "GR0901109720000097226400154",
+		"bank": "NATIONAL BANK OF GREECE"
+	},
+	"other_account3": {
+		"id": "3c6888ad-f9eb-40dc-a963-f8f9ea1c49a8",
+		"number": "10348012377",
+		"IBAN": "GR4501101030000010348012377",
+		"bank": "NATIONAL BANK OF GREECE"
+	},
+	"details3": {
+		"type": "Account Transfer",
+		"description": "Transfer from other account",
+		"posted": "2019-03-25T18:14:31.2156726+03:00",
+		"completed": "2019-03-25T18:14:31.2156726+03:00",
+		"new_balance": {
+			"currency": "EUR",
+			"amount": "99360"
+		},
+		"value": {
+			"currency": "EUR",
+			"amount": "120"
+		}
+	},
+
+	"this_account4": {
+		"id": "7965010c-de87-4ee7-b0d3-8ce744538b2e",
+		"number": "97226400162",
+		"kind": "Current",
+		"IBAN": "GR0901109720000097226400162",
+		"bank": "NATIONAL BANK OF GREECE"
+	},
+	"other_account4": {
+		"id": "3c6888ad-f9eb-40dc-a963-f8f9ea1c49a8",
+		"number": "10348012377",
+		"IBAN": "GR4501101030000010348012377",
+		"bank": "NATIONAL BANK OF GREECE"
+	},
+	"details4": {
+		"type": "Account Transfer",
+		"description": "Transfer 300 Euro to other Account",
+		"posted": "2019-04-25T18:14:31.2156726+03:00",
+		"completed": "2019-04-25T18:14:31.2156726+03:00",
+		"new_balance": {
+			"currency": "EUR",
+			"amount": "100000"
+		},
+		"value": {
+			"currency": "EUR",
+			"amount": "-300"
+		}
+	},
+
+	"this_account5": {
+		"id": "7965010c-de87-4ee7-b0d3-8ce744538b2e",
+		"number": "97226400154",
+		"kind": "Current",
+		"IBAN": "GR0901109720000097226400154",
+		"bank": "NATIONAL BANK OF GREECE"
+	},
+	"other_account5": {
+		"id": "3c6888ad-f9eb-40dc-a963-f8f9ea1c49a8",
+		"number": "10348012377",
+		"IBAN": "GR4501101030000010348012377",
+		"bank": "NATIONAL BANK OF GREECE"
+	},
+	"details5": {
+		"type": "Account Transfer",
+		"description": "Transfer from other account",
+		"posted": "2019-05-25T18:14:31.2156726+03:00",
+		"completed": "2019-05-25T18:14:31.2156726+03:00",
+		"new_balance": {
+			"currency": "EUR",
+			"amount": "100000"
+		},
+		"value": {
+			"currency": "EUR",
+			"amount": "640"
+		}
+	}
+}
