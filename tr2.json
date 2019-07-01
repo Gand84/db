@@ -33,7 +33,7 @@
 		"number": "97226400162",
 		"kind": "Current",
 		"IBAN": "GR0901109720000097226400162",
-		"bank": "NATIONAL BANK OF GREECE"
+		"bank": "EFG-Eurobank Ergasias"
 	},
 	"other_account2": {
 		"id": "3c6888ad-f9eb-40dc-a963-f8f9ea1c49a8",
@@ -89,7 +89,7 @@
 		"number": "97226400162",
 		"kind": "Current",
 		"IBAN": "GR0901109720000097226400162",
-		"bank": "NATIONAL BANK OF GREECE"
+		"bank": "EFG-Eurobank Ergasias"
 	},
 	"other_account4": {
 		"id": "3c6888ad-f9eb-40dc-a963-f8f9ea1c49a8",
