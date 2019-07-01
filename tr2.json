@@ -25,9 +25,9 @@
                                     "currency": "EUR",
                                     "amount": "-20"
                                 }
-                            }},
+                            },
                            
-                            {
+                            
                             "this_account2": {
                                 "id": "7965010c-de87-4ee7-b0d3-8ce744538b2e",                            
                                 "number": "97226400162",
@@ -54,8 +54,8 @@
                                     "currency": "EUR",
                                     "amount": "30"
                                 }
-                            }},
-                            {
+                            },
+                            
                             "this_account3": {
                                 "id": "7965010c-de87-4ee7-b0d3-8ce744538b2e",                            
                                 "number": "97226400154",
@@ -82,8 +82,8 @@
                                     "currency": "EUR",
                                     "amount": "120"
                                 }
-                            }},
-                            {
+                            },
+                            
                             "this_account4": {
                                 "id": "7965010c-de87-4ee7-b0d3-8ce744538b2e",                            
                                 "number": "97226400162",
@@ -110,8 +110,8 @@
                                     "currency": "EUR",
                                     "amount": "-300"
                                 }
-                            }},
-                            {
+                            },
+                            
                             "this_account5": {
                                 "id": "7965010c-de87-4ee7-b0d3-8ce744538b2e",                            
                                 "number": "97226400154",
@@ -138,7 +138,6 @@
                                     "currency": "EUR",
                                     "amount": "640"
                                 }
-                            }
-                            }
+                            }                           
 }
 
